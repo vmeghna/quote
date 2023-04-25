@@ -9,7 +9,6 @@ body {
   margin: 20px 10px;
 }
 .box {
-  border: 1px solid red;
   width: 50%;
   text-align: center;
   margin-top: -550px;
@@ -18,5 +17,14 @@ p {
   font-size: x-large;
   font-weight: bolder;
   font-style: italic;
+  color: antiquewhite;
+}
+.footer {
+  width: 50%;
+  margin-top: 230px;
+  margin-left: 20px;
+}
+.footer span {
+  font-size: 80%;
   color: antiquewhite;
 }
